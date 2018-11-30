@@ -4,7 +4,7 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: mini-tiles
   m_Shader: {fileID: 4800000, guid: 5245ae2adfce6f04f91ba1b0be78d711, type: 3}

@@ -4,7 +4,7 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: photos1-2
   m_Shader: {fileID: 4800000, guid: 5245ae2adfce6f04f91ba1b0be78d711, type: 3}
@@ -25,4 +25,4 @@ Material:
     m_Floats:
     - PixelSnap: 0
     m_Colors:
-    - _Color: {r: 0.52156866, g: 0.52156866, b: 0.52156866, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}

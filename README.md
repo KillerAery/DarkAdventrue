@@ -20,8 +20,8 @@ A/D键左右移动，J键冲刺，K键跳跃。
 
 ### 游戏截图
 
-![](https://github.com/KillerAery/DarkAdventrue/blob/master/MarkDown_Image/%20(1).jpg)
+![](https://github.com/KillerAery/DarkAdventrue/blob/master/MarkDown_Image/(1).png)
 
-![](https://github.com/KillerAery/DarkAdventrue/blob/master/MarkDown_Image/%20(2).jpg)
+![](https://github.com/KillerAery/DarkAdventrue/blob/master/MarkDown_Image/(2).png)
 
-![](https://github.com/KillerAery/DarkAdventrue/blob/master/MarkDown_Image/%20(3).jpg)
+![](https://github.com/KillerAery/DarkAdventrue/blob/master/MarkDown_Image/(3).png)
